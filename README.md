@@ -1,5 +1,3 @@
-# AugmentBot-Lite
-Demo bot for show
 # AugmentBot Lite 🤖
 
 A lightweight, GPT-powered Discord bot built for server engagement, automation, and fun — using Python, `discord.py`, and OpenAI.
