@@ -1,0 +1,6 @@
+This file shows the required environment variables for running the bot.
+
+Create a file named `.env` in the same folder as bot.py, and paste the following content inside, replacing the placeholder values with your own.
+
+DISCORD_BOT_TOKEN=your_discord_bot_token_here
+OPENAI_API_KEY=your_openai_api_key_here
